@@ -5,6 +5,7 @@
 
 ### 程序效果图
 ![程序主界面](https://github.com/eppesh/Pictures/blob/main/challenge_six.png)
+(效果图如果显示不了的话，也可去文末的CSDN链接里查看）
 
 ### 编译环境
 - VS2019
